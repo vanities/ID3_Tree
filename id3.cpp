@@ -1,10 +1,5 @@
 /*
 	Programmer:	Adam Mischke
-	Professor:	Joshua L. Phillips
-	Program:	Supervised Learning - Project 3
-	Started:	Friday,	Nov. 3 at 16:53:00
-	Date Due:	Tuesday, Nov. 14 by 10:00pm
-	Date Finished: Monday, Nov. 13 at 17:30:00
 
 	Description:
 		This program uses an ID3 decision tree from labeled
